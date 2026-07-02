@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Vitality</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="history">Historique</string>
+    <string name="reminders">Rappels</string>
+    <string name="settings">Paramètres</string>
+
+    <string name="add_measurement">Ajouter une mesure</string>
+    <string name="edit_measurement">Modifier la mesure</string>
+    <string name="delete">Supprimer</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+
+    <string name="blood_glucose">Glycémie</string>
+    <string name="blood_pressure">Tension Artérielle</string>
+    <string name="heart_rate">Fréquence Cardiaque</string>
+
+    <string name="glucose_value">Taux de glucose (g/L)</string>
+    <string name="systolic_value">Tension Systolique (mmHg)</string>
+    <string name="diastolic_value">Tension Diastolique (mmHg)</string>
+    <string name="heart_rate_value">Pouls (bpm)</string>
+
+    <string name="notes">Notes</string>
+    <string name="notes_placeholder">Ajouter des notes facultatives...</string>
+    <string name="date">Date</string>
+    <string name="time">Heure</string>
+
+    <string name="latest_measurements">Dernières mesures</string>
+    <string name="upcoming_reminders">Rappels à venir</string>
+    <string name="no_recent_measurements">Aucune mesure enregistrée pour le moment.</string>
+    <string name="no_upcoming_reminders">Aucun rappel à venir de prévu.</string>
+
+    <string name="stats">Statistiques</string>
+    <string name="average">Moyenne</string>
+    <string name="min">Minimum</string>
+    <string name="max">Maximum</string>
+    <string name="trend">Tendance</string>
+
+    <string name="filter_type">Filtrer par type</string>
+    <string name="filter_all">Toutes les mesures</string>
+    <string name="search_placeholder">Rechercher dans les notes...</string>
+    <string name="date_start">Date de début</string>
+    <string name="date_end">Date de fin</string>
+    <string name="clear_filters">Effacer les filtres</string>
+
+    <string name="classify_normal">Normal</string>
+    <string name="classify_caution">Attention</string>
+    <string name="classify_high">Élevé</string>
+    <string name="classify_very_high">Très élevé</string>
+
+    <string name="generate_report">Générer un rapport PDF</string>
+    <string name="export_all">Tout exporter</string>
+    <string name="report_generated_success">Rapport PDF généré et enregistré avec succès !</string>
+    <string name="report_generated_failed">Échec de la génération du rapport PDF.</string>
+
+    <string name="medication_reminders">Rappels de médicaments</string>
+    <string name="add_reminder">Ajouter un rappel</string>
+    <string name="medication_name">Nom du médicament</string>
+    <string name="dosage">Dosage (ex. 1 comprimé, 5ml)</string>
+    <string name="schedule_type">Fréquence</string>
+    <string name="schedule_daily">Quotidien</string>
+    <string name="schedule_weekly">Hebdomadaire</string>
+    <string name="schedule_monthly">Mensuel</string>
+    <string name="schedule_once">Date Spécifique</string>
+    <string name="select_date">Choisir une Date</string>
+    <string name="time_of_reminder">Heure du rappel</string>
+    <string name="active">Actif</string>
+
+    <string name="language">Langue</string>
+    <string name="theme">Mode de thème</string>
+    <string name="light_mode">Thème clair</string>
+    <string name="dark_mode">Thème sombre</string>
+    <string name="system_mode">Par défaut du système</string>
+
+    <string name="app_loading">Chargement de Suivi de Santé...</string>
+    <string name="healthy_heart">Suivez votre santé et vos médicaments facilement</string>
+    
+    <string name="notif_channel_name">Alertes Médicaments</string>
+    <string name="notif_title">Heure du médicament !</string>
+    <string name="notif_body">Il est temps de prendre votre %1$s (%2$s).</string>
+    <string name="user_name">Nom d\'utilisateur</string>
+    <string name="edit_user_name">Modifier le nom</string>
+    <string name="enter_name_placeholder">Entrez votre nom...</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Vitality",
+  "description": "A modern, minimalist offline health tracker for blood glucose, blood pressure, and heart rate with localization and medication reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
